@@ -1,0 +1,3 @@
+@echo off
+echo Compiling project...
+"C:\program files\microsoft visual studio\vb98\vb6.exe" BSoftPlayer.vbp /make
